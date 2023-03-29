@@ -9,7 +9,18 @@ COMMANDS
 __________________
 touch
 cat
+stage 
+stash
+git stash clear
+
+commit
 
 
 
 BHARGAVA PROOOOOOO
+
+
+remote 
+local 
+
+MASTER BRANCH
