@@ -1,0 +1,11 @@
+This is the initial file.
+
+Stage
+Status
+Commit
+
+
+COMMANDS
+__________________
+touch
+cat
